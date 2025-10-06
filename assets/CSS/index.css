@@ -66,7 +66,7 @@ nav img { border-radius: 50%; }
 /* header/hero */
 header {
   height: 135vh; 
-  background-image: url('../img/herofinal.png');
+  background-image: url('../Img/herofinal.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
