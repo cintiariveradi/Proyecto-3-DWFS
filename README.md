@@ -34,6 +34,6 @@ Antes de codificar, se realizó un wireframe simple para planificar la estructur
 
 ## Visita la página
 
-👉 [https://cintiariveradi.github.io/Proyecto-3-DWFS/](https://cintiariveradi.github.io/Proyecto-3-DWFS/)
+👉 https://cintiariveradi.github.io/Proyecto-3-DWFS/
 
 
