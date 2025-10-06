@@ -32,7 +32,7 @@ Antes de implementar, se realizó un wireframe simple para planificar la estruct
 ---
 
 ## Visita la página
-
+Contenido responsivo
 👉 https://cintiariveradi.github.io/Proyecto-3-DWFS/
 
 
